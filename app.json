@@ -20,6 +20,6 @@
 		}
 	},
 	"env": {},
-	"addons": ["heroku-postgresql"],
+	"addons": [],
 	"stack": "container"
 }
